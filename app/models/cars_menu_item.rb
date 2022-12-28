@@ -1,0 +1,2 @@
+class CarsMenuItem < ApplicationRecord
+end
